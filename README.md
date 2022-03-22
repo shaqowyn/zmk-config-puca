@@ -35,7 +35,18 @@ Step 3: at the upper right corner of the repo, click fork which will create a cl
 in your GitHub account. The clone is yours and thus gives you the ability to play around with the 
 files and modify them as you see fit without destroying the work of AXRAY23.
 
-There are multiple ways to approach the remaining steps, I will tell you how I did it.
+There are multiple ways to approach the remaining steps, I'll tell you how I did it in Step 4 to 14.
+My way teaches you more about GitHub, editing files offline and incorporates the use of a text
+editor. If you want my (somewhat more complicated way) way skip this and go on to step 4.
+
+However, there is an even easier way. That'll I'll explain now.
+
+Basically, fork AXRAY23's repo (Step 1 to 3). Then on the <> Code tab go into the config folder.
+Click the .keymap files and open it, click the pencil (edit button) in the taskbar. 
+This will let you edit the keymap straight away on GitHub, how-to code the keymap is in Step 9 below.
+After you're done editing commit it to you're forked repo at the buttom of the page and you're done!
+You can get your newly built firmware from the actions tab (step 12).
+Install it to your Puca (step 13 - 14).
 
 Step 4: download the GitHub Desktop app and set it up to be linked to your GitHub account online. 
 The desktop app will make pushing your updated .keymap and .conf files to your remote 

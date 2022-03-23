@@ -37,7 +37,8 @@ files and modify them as you see fit without destroying the work of AXRAY23.
 
 There are multiple ways to approach the remaining steps, I'll tell you how I did it in Step 4 to 14.
 My way teaches you more about GitHub, editing files offline and incorporates the use of a text
-editor. If you want my (somewhat more complicated way) way skip this and go on to step 4.
+editor. If you want my more complicated but more useful in the long term way,
+skip the paragraph below and go on to step 4.
 
 However, there is an even easier way. That'll I'll explain now.
 

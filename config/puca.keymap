@@ -23,12 +23,12 @@
         default_layer {
             label = "default layer";
             bindings = <
-                &kp C_PP            &trans              &kp DELETE          &kp BACKSPACE       &trans
-                &kp KP_NLCK         &kp KP_DIVIDE       &kp KP_MULTIPLY     &kp KP_MINUS        &kp KP_MINUS    
-                &kp KP_N7           &kp KP_N8           &kp KP_N9           &kp KP_PLUS         &kp KP_PLUS   
-                &kp KP_N4           &kp KP_N5           &kp KP_N6           &trans              &trans
-                &kp KP_N1           &kp KP_N2           &kp KP_N3           &kp KP_ENTER        &kp KP_ENTER
-                &kp KP_N0           &kp KP_N0           &kp KP_DOT          &kp KP_DOT          &kp KP_N0 
+                &kp C_PP      &trans       &trans              &kp DELETE        &trans     &kp BACKSPACE       &trans
+                &kp KP_NLCK   &trans       &kp KP_DIVIDE       &kp KP_MULTIPLY   &trans     &kp KP_MINUS        &kp KP_MINUS    
+                &kp KP_N7     &trans       &kp KP_N8           &kp KP_N9         &trans     &kp KP_PLUS         &kp KP_PLUS   
+                &kp KP_N4     &trans       &kp KP_N5           &kp KP_N6         &trans     &trans              &trans
+                &kp KP_N1     &trans       &kp KP_N2           &kp KP_N3         &trans     &kp KP_ENTER        &kp KP_ENTER
+                &kp KP_N0     &kp KP_N0    &kp KP_N0           &kp KP_DOT        &trans     &kp KP_DOT          &kp KP_N0 
             >;
             sensor-bindings = < &inc_dec_kp C_VOL_UP C_VOL_DN >;
 

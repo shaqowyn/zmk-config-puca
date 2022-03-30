@@ -18,6 +18,8 @@ A wireless firmware based on zmk for the Puca Macropad by ffkeebs.
 
 If you're like me, i.e you have no experience with Github, ZMK or coding but still want to make your pucapad wireless using a nice! nano with ZMK, hopefully the following steps will help you understand what you to need to do.
 
+I also have a guide on what to do in terms of hardware (Nice! Nano v2 + battery and physical switch): https://imgur.com/a/SgcTSmJ
+
 ```
 This repo is a fork of the zmk-config-puca repo created by AXRAY23. 
 At the time of writing there is only a verified ZMK firmware available for the ffkeebs Murphpad but not the 
